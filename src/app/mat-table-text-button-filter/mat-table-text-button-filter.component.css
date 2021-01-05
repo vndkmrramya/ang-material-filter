@@ -1,0 +1,57 @@
+p {
+    font-family: Lato;
+  }
+  
+  table {
+    width: 100%;
+  }
+  
+  .header {
+    padding: 5px;
+  }
+  
+  .filter {
+    display: block;
+  }
+
+  .boldClass{
+    font-weight:bold;
+  }
+
+.italicsClass{
+    font-style:italic;
+}
+
+.colorClass{
+    color:red;
+}
+
+.mat-button-toggle-group {
+  margin: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+
+.intake-mat-button-toggle-appearance-standard {
+  background-color: #9d9b9a;
+  color:white;
+}
+
+.intake-mat-button-toggle-checked {
+  background-color: #EA0B28;
+  color:white;
+}
+
+
+.old{
+  width:25%;
+  border:1px solid;
+  height:200px;
+  cursor:pointer;
+  background:yellow;
+}
+.new{
+  width:100%;
+  border:1px solid;
+  height:200px;
+  cursor:pointer;
+  background:green;
+}
